@@ -1,8 +1,8 @@
 --[[
     AutoPlay v1.0.5 by waza80
-    getgenv().Sensibility = n (default = 2) | Set the sensibility
+    getgenv().Sensibility = n (default = 0.6) | Set the sensibility
     getgenv().PlayEnabled = true | enable AutoPlay at startup
-    getgenv().FarmEnabled = true | enable AutoFarm at startup
+    getgenv().FarmEnabled = false | enable AutoFarm at startup
 
     Script is too long? Use this: loadstring(game:HttpGet("https://rawscripts.net/raw/Basically-FNF:-Remix-AutoPlay-Light-11440"))()
 ]]
